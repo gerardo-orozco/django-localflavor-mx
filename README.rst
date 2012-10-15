@@ -34,7 +34,7 @@ What's in the Mexico localflavor?
 * models.MXCURPField: A model field that forms represent as a
   ``forms.MXCURPField`` field and stores the value of a valid Mexican CURP.
 
-Additionally, a choice tuple is provided in ``django.contrib.localflavor.mx.mx_states``,
+Additionally, a choice tuple is provided in ``django_localflavor_mx.mx_states``,
 allowing customized model and form fields, and form presentations, for subsets of
 Mexican states abbreviations:
 
