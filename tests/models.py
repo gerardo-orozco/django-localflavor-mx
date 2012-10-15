@@ -1,4 +1,4 @@
-from django.contrib.localflavor.mx.models import (
+from django_localflavor_mx.models import (
     MXStateField, MXRFCField, MXCURPField, MXZipCodeField)
 from django.db import models
 
