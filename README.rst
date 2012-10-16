@@ -22,6 +22,9 @@ What's in the Mexico localflavor?
 * forms.MXStateSelect: A ``Select`` widget that uses a list of Mexican states
   as its choices.
 
+* forms.MXSocialSecurityNumberField: A field that validates a Mexican Social
+  Security Number(NSS) for *Instituto Mexicano del Seguro Social*.
+
 * models.MXStateField: A model field that stores the three-letter Mexican state
   abbreviation in the database.
 
@@ -33,6 +36,10 @@ What's in the Mexico localflavor?
 
 * models.MXCURPField: A model field that forms represent as a
   ``forms.MXCURPField`` field and stores the value of a valid Mexican CURP.
+
+* models.MXSocialSecurityNumberField: A model field that forms represent as a
+  ``forms.MXSocialSecurityNumberField`` field and stores the eleven-digit
+  Mexican Social Security Number for *Instituto Mexicano del Seguro Social*.
 
 Additionally, a choice tuple is provided in ``django_localflavor_mx.mx_states``,
 allowing customized model and form fields, and form presentations, for subsets of
