@@ -1,0 +1,196 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Denis Darii <sinednx@gmail.com>, 2011.
+# Jannis Leidel <jannis@leidel.info>, 2011.
+# Michael Bashkirov <michael.bashkirov@gmail.com>, 2011.
+# Алексей Борискин <sun.void@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-mx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:42-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Алексей Борискин <sun.void@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+
+#: forms.py:68
+msgid "Enter a valid zip code in the format XXXXX."
+msgstr "Введите корректный почтовый индекс в формате XXXXX."
+
+#: forms.py:111
+msgid "Enter a valid RFC."
+msgstr "Введите корректный RFC."
+
+#: forms.py:112
+msgid "Invalid checksum for RFC."
+msgstr "Неверная контрольная сумма RFC."
+
+#: forms.py:192
+msgid "Enter a valid CURP."
+msgstr "Введите корректный CURP."
+
+#: forms.py:193
+msgid "Invalid checksum for CURP."
+msgstr "Неверная контрольная сумма CURP."
+
+#: forms.py:251
+msgid "Enter a valid Social Security Number."
+msgstr ""
+
+#: forms.py:252
+msgid "Invalid checksum for Social Security Number."
+msgstr ""
+
+#: models.py:15
+msgid "Mexico state (three uppercase letters)"
+msgstr "Мексиканский штат (три заглавных буквы)"
+
+#: models.py:28
+msgid "Mexico zip code"
+msgstr "Мексиканский почтовый индекс"
+
+#: models.py:45
+msgid "Mexican RFC"
+msgstr "Мексиканский RFC"
+
+#: models.py:62
+msgid "Mexican CURP"
+msgstr "Мексиканский CURP"
+
+#: models.py:79
+msgid "Mexican Social Security Number"
+msgstr ""
+
+#: mx_states.py:14
+msgid "Aguascalientes"
+msgstr "Агуаскальентес"
+
+#: mx_states.py:15
+msgid "Baja California"
+msgstr "Нижняя Калифорния"
+
+#: mx_states.py:16
+msgid "Baja California Sur"
+msgstr "Южная Нижняя Калифорни"
+
+#: mx_states.py:17
+msgid "Campeche"
+msgstr "Кампече"
+
+#: mx_states.py:18
+msgid "Chihuahua"
+msgstr "Чиуауа"
+
+#: mx_states.py:19
+msgid "Chiapas"
+msgstr "Чьяпас"
+
+#: mx_states.py:20
+msgid "Coahuila"
+msgstr "Коауила"
+
+#: mx_states.py:21
+msgid "Colima"
+msgstr "Колима"
+
+#: mx_states.py:22
+msgid "Distrito Federal"
+msgstr "Федеральный округ"
+
+#: mx_states.py:23
+msgid "Durango"
+msgstr "Дуранго"
+
+#: mx_states.py:24
+msgid "Guerrero"
+msgstr "Герреро"
+
+#: mx_states.py:25
+msgid "Guanajuato"
+msgstr "Гуанахуато"
+
+#: mx_states.py:26
+msgid "Hidalgo"
+msgstr "Идальго"
+
+#: mx_states.py:27
+msgid "Jalisco"
+msgstr "Халиско"
+
+#: mx_states.py:28
+msgid "Estado de México"
+msgstr "Мехико"
+
+#: mx_states.py:29
+msgid "Michoacán"
+msgstr "Мичоакан"
+
+#: mx_states.py:30
+msgid "Morelos"
+msgstr "Морелос"
+
+#: mx_states.py:31
+msgid "Nayarit"
+msgstr "Наярит"
+
+#: mx_states.py:32
+msgid "Nuevo León"
+msgstr "Нуэво-Леон"
+
+#: mx_states.py:33
+msgid "Oaxaca"
+msgstr "Оахака"
+
+#: mx_states.py:34
+msgid "Puebla"
+msgstr "Пуэбла"
+
+#: mx_states.py:35
+msgid "Querétaro"
+msgstr "Керетаро"
+
+#: mx_states.py:36
+msgid "Quintana Roo"
+msgstr "Кинтана-Роо"
+
+#: mx_states.py:37
+msgid "Sinaloa"
+msgstr "Синалоа"
+
+#: mx_states.py:38
+msgid "San Luis Potosí"
+msgstr "Сан-Луис-Потоси"
+
+#: mx_states.py:39
+msgid "Sonora"
+msgstr "Сонора"
+
+#: mx_states.py:40
+msgid "Tabasco"
+msgstr "Табаско"
+
+#: mx_states.py:41
+msgid "Tamaulipas"
+msgstr "Тамаулипас"
+
+#: mx_states.py:42
+msgid "Tlaxcala"
+msgstr "Тласкала"
+
+#: mx_states.py:43
+msgid "Veracruz"
+msgstr "Веракрус"
+
+#: mx_states.py:44
+msgid "Yucatán"
+msgstr "Юкатан"
+
+#: mx_states.py:45
+msgid "Zacatecas"
+msgstr "Сакатекас"

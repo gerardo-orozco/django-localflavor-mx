@@ -1,0 +1,194 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Jaehong Kim <mixe@korea.com>, 2011.
+# Jannis Leidel <jannis@leidel.info>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-mx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:42-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Jaehong Kim <mixe@korea.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: forms.py:68
+msgid "Enter a valid zip code in the format XXXXX."
+msgstr ""
+
+#: forms.py:111
+msgid "Enter a valid RFC."
+msgstr ""
+
+#: forms.py:112
+msgid "Invalid checksum for RFC."
+msgstr ""
+
+#: forms.py:192
+msgid "Enter a valid CURP."
+msgstr ""
+
+#: forms.py:193
+msgid "Invalid checksum for CURP."
+msgstr ""
+
+#: forms.py:251
+msgid "Enter a valid Social Security Number."
+msgstr ""
+
+#: forms.py:252
+msgid "Invalid checksum for Social Security Number."
+msgstr ""
+
+#: models.py:15
+msgid "Mexico state (three uppercase letters)"
+msgstr ""
+
+#: models.py:28
+msgid "Mexico zip code"
+msgstr ""
+
+#: models.py:45
+msgid "Mexican RFC"
+msgstr ""
+
+#: models.py:62
+msgid "Mexican CURP"
+msgstr ""
+
+#: models.py:79
+msgid "Mexican Social Security Number"
+msgstr ""
+
+#: mx_states.py:14
+msgid "Aguascalientes"
+msgstr "아과스칼리엔테스 주"
+
+#: mx_states.py:15
+msgid "Baja California"
+msgstr "바하칼리포르니아 주"
+
+#: mx_states.py:16
+msgid "Baja California Sur"
+msgstr "바하칼리포르니아수르 주"
+
+#: mx_states.py:17
+msgid "Campeche"
+msgstr "캄페체 주"
+
+#: mx_states.py:18
+msgid "Chihuahua"
+msgstr "치와와 주"
+
+#: mx_states.py:19
+msgid "Chiapas"
+msgstr "치아파스 주"
+
+#: mx_states.py:20
+msgid "Coahuila"
+msgstr "코아우일라 주"
+
+#: mx_states.py:21
+msgid "Colima"
+msgstr "콜리마 주"
+
+#: mx_states.py:22
+msgid "Distrito Federal"
+msgstr "연방구 (멕시코시)"
+
+#: mx_states.py:23
+msgid "Durango"
+msgstr "두랑고 주"
+
+#: mx_states.py:24
+msgid "Guerrero"
+msgstr "게레로 주"
+
+#: mx_states.py:25
+msgid "Guanajuato"
+msgstr "과나후아토 주"
+
+#: mx_states.py:26
+msgid "Hidalgo"
+msgstr "이달고 주"
+
+#: mx_states.py:27
+msgid "Jalisco"
+msgstr "할리스코 주"
+
+#: mx_states.py:28
+msgid "Estado de México"
+msgstr "멕시코 주"
+
+#: mx_states.py:29
+msgid "Michoacán"
+msgstr "미초아칸 주"
+
+#: mx_states.py:30
+msgid "Morelos"
+msgstr "모렐로스 주"
+
+#: mx_states.py:31
+msgid "Nayarit"
+msgstr "나야리트 주"
+
+#: mx_states.py:32
+msgid "Nuevo León"
+msgstr "누에보레온 주"
+
+#: mx_states.py:33
+msgid "Oaxaca"
+msgstr "오아하카 주"
+
+#: mx_states.py:34
+msgid "Puebla"
+msgstr "푸에블라 주"
+
+#: mx_states.py:35
+msgid "Querétaro"
+msgstr "케레타로 주"
+
+#: mx_states.py:36
+msgid "Quintana Roo"
+msgstr "킨타나로오 주"
+
+#: mx_states.py:37
+msgid "Sinaloa"
+msgstr "시날로아 주"
+
+#: mx_states.py:38
+msgid "San Luis Potosí"
+msgstr "산루이스포토시 주"
+
+#: mx_states.py:39
+msgid "Sonora"
+msgstr "소노라 주"
+
+#: mx_states.py:40
+msgid "Tabasco"
+msgstr "타바스코 주"
+
+#: mx_states.py:41
+msgid "Tamaulipas"
+msgstr "타마울리파스 주"
+
+#: mx_states.py:42
+msgid "Tlaxcala"
+msgstr "틀락스칼라 주"
+
+#: mx_states.py:43
+msgid "Veracruz"
+msgstr "베라크루스 주"
+
+#: mx_states.py:44
+msgid "Yucatán"
+msgstr "유카탄 주"
+
+#: mx_states.py:45
+msgid "Zacatecas"
+msgstr "사카테카스 주"

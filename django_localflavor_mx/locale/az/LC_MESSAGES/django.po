@@ -1,0 +1,193 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Ali Ismayilov <ali@ismailov.info>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-mx\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:42-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Ali Ismayilov <ali@ismailov.info>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: forms.py:68
+msgid "Enter a valid zip code in the format XXXXX."
+msgstr ""
+
+#: forms.py:111
+msgid "Enter a valid RFC."
+msgstr ""
+
+#: forms.py:112
+msgid "Invalid checksum for RFC."
+msgstr ""
+
+#: forms.py:192
+msgid "Enter a valid CURP."
+msgstr ""
+
+#: forms.py:193
+msgid "Invalid checksum for CURP."
+msgstr ""
+
+#: forms.py:251
+msgid "Enter a valid Social Security Number."
+msgstr ""
+
+#: forms.py:252
+msgid "Invalid checksum for Social Security Number."
+msgstr ""
+
+#: models.py:15
+msgid "Mexico state (three uppercase letters)"
+msgstr ""
+
+#: models.py:28
+msgid "Mexico zip code"
+msgstr ""
+
+#: models.py:45
+msgid "Mexican RFC"
+msgstr ""
+
+#: models.py:62
+msgid "Mexican CURP"
+msgstr ""
+
+#: models.py:79
+msgid "Mexican Social Security Number"
+msgstr ""
+
+#: mx_states.py:14
+msgid "Aguascalientes"
+msgstr "Aquaskalyentes"
+
+#: mx_states.py:15
+msgid "Baja California"
+msgstr "Aşağı Kaliforniya"
+
+#: mx_states.py:16
+msgid "Baja California Sur"
+msgstr "Cənubi Aşağı Kaliforniya"
+
+#: mx_states.py:17
+msgid "Campeche"
+msgstr "Kampeçe"
+
+#: mx_states.py:18
+msgid "Chihuahua"
+msgstr "Çihuahua"
+
+#: mx_states.py:19
+msgid "Chiapas"
+msgstr "Çyapas"
+
+#: mx_states.py:20
+msgid "Coahuila"
+msgstr "Koahuila"
+
+#: mx_states.py:21
+msgid "Colima"
+msgstr "Kolima"
+
+#: mx_states.py:22
+msgid "Distrito Federal"
+msgstr "Federal vilayət"
+
+#: mx_states.py:23
+msgid "Durango"
+msgstr "Duranqo"
+
+#: mx_states.py:24
+msgid "Guerrero"
+msgstr "Gerrero"
+
+#: mx_states.py:25
+msgid "Guanajuato"
+msgstr "Quanahuato"
+
+#: mx_states.py:26
+msgid "Hidalgo"
+msgstr "İdalqo"
+
+#: mx_states.py:27
+msgid "Jalisco"
+msgstr "Xalisko"
+
+#: mx_states.py:28
+msgid "Estado de México"
+msgstr "Mexiko"
+
+#: mx_states.py:29
+msgid "Michoacán"
+msgstr "Miçoakan"
+
+#: mx_states.py:30
+msgid "Morelos"
+msgstr ""
+
+#: mx_states.py:31
+msgid "Nayarit"
+msgstr ""
+
+#: mx_states.py:32
+msgid "Nuevo León"
+msgstr "Nuevo-Leon"
+
+#: mx_states.py:33
+msgid "Oaxaca"
+msgstr "Oaxaka"
+
+#: mx_states.py:34
+msgid "Puebla"
+msgstr ""
+
+#: mx_states.py:35
+msgid "Querétaro"
+msgstr "Keretaro"
+
+#: mx_states.py:36
+msgid "Quintana Roo"
+msgstr "Kintana Roo"
+
+#: mx_states.py:37
+msgid "Sinaloa"
+msgstr ""
+
+#: mx_states.py:38
+msgid "San Luis Potosí"
+msgstr "San Lui Potosi"
+
+#: mx_states.py:39
+msgid "Sonora"
+msgstr ""
+
+#: mx_states.py:40
+msgid "Tabasco"
+msgstr "Tabasko"
+
+#: mx_states.py:41
+msgid "Tamaulipas"
+msgstr ""
+
+#: mx_states.py:42
+msgid "Tlaxcala"
+msgstr "Tlaskala"
+
+#: mx_states.py:43
+msgid "Veracruz"
+msgstr "Verakrus"
+
+#: mx_states.py:44
+msgid "Yucatán"
+msgstr "Yukatan"
+
+#: mx_states.py:45
+msgid "Zacatecas"
+msgstr "Sakatekas"
